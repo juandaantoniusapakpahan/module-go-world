@@ -1,6 +1,6 @@
 package modulegoworld
 
-func World() string {
+func World(name string) string {
 	return "Hello World"
 }
 
